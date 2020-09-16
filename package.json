@@ -1,0 +1,14 @@
+{
+  "name": "git-redbase-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Satyam Bansal <satyam@pesto.tech>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}

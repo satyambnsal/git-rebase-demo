@@ -1,0 +1,5 @@
+const DEFAULT_INTEREST_RATE_IN_PERCENT = 15;
+
+module.exports = {
+  DEFAULT_INTEREST_RATE_IN_PERCENT,
+};
